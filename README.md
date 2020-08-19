@@ -4,7 +4,7 @@
 
 #With features like Users and Chat room
 
-#One to One chat and separate chat room will be feature full version of my private repo
+#One to One chat and separate chat room will be feature full version in my private repo
 
 #Timeline 2 weekends
 
